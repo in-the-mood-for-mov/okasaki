@@ -1,0 +1,4 @@
+[package]
+name = "okasaki"
+version = "0.1.0"
+authors = ["Simon Génier <simon@webscale.money>"]
